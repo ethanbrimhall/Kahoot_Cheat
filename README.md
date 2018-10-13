@@ -8,5 +8,5 @@ This cheat finds the kahoot game with its quizId found in the URL of the host an
 </ul>
 <h2>Finding quizId</h2>
 <ul>
-  <li>Look at the url in the host's browswer</li>
+  <li>Look at the url in the host's browser</li>
   <li>Enter the id into the program when asked</li>
